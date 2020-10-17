@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I just wanna see if this is working bro
+=======
+# Test this
+>>>>>>> e09272da28365c59bb62511ebef1b5c48bf391db
